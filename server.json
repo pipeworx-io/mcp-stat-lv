@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/stat-lv",
   "title": "Stat Lv",
   "description": "Statistics Latvia / Official Statistics Portal (data.stat.gov.lv) PxWeb MCP.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/stat-lv",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-stat-lv",
