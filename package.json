@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-stat-lv",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Statistics Latvia / Official Statistics Portal (data.stat.gov.lv) PxWeb MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-ed1de5f21623adaa4f4100b2d50ef761ee3aef95d09caffca5dc1cc1460d9050",
-    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
+    "sourceHash": "v1-0262be2d7af01e5dc9061bbfe5868d50028d3dcd18924cadce3128047db439e4",
+    "sourceCommit": "d4a9636716f113458bd312e487c065f76548df8c"
   }
 }
